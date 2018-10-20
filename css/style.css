@@ -1,0 +1,186 @@
+header {
+    background: #2c3e50;
+    padding: 50px;
+}
+
+.left_container {
+    float: left;
+    width: 50%;
+}
+
+.left_container a {
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+    padding-left: 30px;
+    font-weight: 700;
+
+}
+
+
+.right_container {
+    margin-left: 10px;
+    float: right;
+}
+
+.right_container nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding: 25px;
+}
+
+.right_container nav a:hover {
+    color: #28927d;
+    
+    
+}
+
+.banner_area {
+    background-color:  #28927d;
+    padding: 170px;
+
+}
+ 
+
+.contain img {
+    display: block;
+    margin: -150px auto 0 auto;
+}
+
+.contain h1 {
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    font-weight: 900;
+}
+
+.margin {
+    margin: -29px 339px;
+    color: #f7f3f3;
+    background: white;
+    padding: 3px;
+}
+
+.banner_text {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: -110px;
+    margin-top: 78px;
+}
+
+.portfolio {
+    margin: 20px 10px;
+    padding: 10px 100px;
+
+}
+
+.title h2 {
+    color: #22303e;
+    text-align: center;
+    font-size: 55px;
+    padding-bottom: 77px;
+
+}
+
+.tiltle_margin {
+    margin: -100px 447px 37px;
+    background: #22303e;
+    padding: 3px;
+}
+.service_one {
+    display: inline;
+}
+.service_one img {
+    width: 29.33%;
+    margin: 19px;
+}
+.service_one img:hover {
+    transform: translateY(-30px)
+}
+
+.about {
+    background: #28927d;
+    padding: 150px;
+   
+}
+.about .text h2 {
+     font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: -100px;
+}
+.text_margin{
+    background: white;
+    padding: 3px;
+    margin: 100px;
+    margin: -22px 400px;
+}
+.about_text {
+    display: inline-block;
+}
+.left_content {
+  width: 50%;
+    float: left;
+    color: white;
+    font-size: 35px;
+    margin: 62px 92px 38px -11px;
+}
+.right_content {
+    color: white;
+    font-size: 35px;
+ margin: 53px -4px;
+
+}
+.btn {
+    text-align: center;
+}
+.btn button a {
+    font-size: 30px;
+    color: #060606;
+    text-align: center;
+    text-decoration: none;
+}
+.btn button a:hover{
+    color: red;
+}
+.contact .container h2 {
+    font-family: Montserrat;
+    font-weight: 700;
+    color: #2c3e50;
+    text-align: center;
+    font-size: 50px;
+}
+.contact .margin {
+   background: #2c3e50;
+    padding: 3px;
+    margin: -24px 520px;
+}
+.contact .text form {
+    text-align: center;
+    margin: 50px;
+    font-size: 26px;
+}
+.fotter_area {
+    background: #2c3e50;
+    padding: 150px;
+    
+}
+.fotter_area .container_one {
+    width: 29.39%;
+}
+.fotter_area .container_two {
+    text-align: center;
+        margin-top: -104px;
+}
+.fotter_area .container_three {
+    float: right;
+    margin-top: -99px;
+    width: 25%;
+}
+footer {
+    background: #073058;
+    padding: 1px;
+    text-align: center;
+}
